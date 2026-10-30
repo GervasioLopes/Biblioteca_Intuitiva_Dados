@@ -5,9 +5,7 @@ Uma aplicação web moderna e interativa concebida para simplificar a consulta, 
 🚀 **Acesse a aplicação online:** [https://gervasiolopes.github.io/Biblioteca_Intuitiva_Dados/](https://gervasiolopes.github.io/Biblioteca_Intuitiva_Dados/)
 
 
-
-https://github.com/user-attachments/assets/922e683b-4365-4546-8d0e-37115f0f164e
-
+<img width="800" height="450" alt="2026-10-30 15-57-00" src="https://github.com/user-attachments/assets/f63bdc35-56b9-40fc-b3da-856c9c075793" />
 
 ---
 
