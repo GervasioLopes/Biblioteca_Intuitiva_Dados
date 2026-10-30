@@ -28,8 +28,10 @@ jobs:
         
 
       - name: Install dependencies
-        run: npm install
-
+        run: |
+          npm cache clean --force
+          npm install
+          
       - name: Build project
         run: npm run build
 
