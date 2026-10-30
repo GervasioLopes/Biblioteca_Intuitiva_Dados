@@ -1,0 +1,6 @@
+{
+  "name": "Biblioteca Intuitiva de Dados",
+  "description": "Livro de consulta interativo de análise de dados com Python e Pandas: split-screen interativo com código, datasets em miniatura, artigos conceituais, gráficos em tempo real e assistente analítico Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
